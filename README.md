@@ -1,4 +1,5 @@
 # naveya
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=600&lines=Hi+I'm+Naveya;Full+Stack+Developer;React+%7C+Node.js+Developer)
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Naveya%20B&fontSize=40&fontColor=ffffff)
 
 ## Hi there 👋 I'm Naveya
@@ -10,25 +11,29 @@
 
 ## 🛠 Tech Stack
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-</p>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,java,python,c,cpp,spring,git,github)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveya&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveya&layout=compact&theme=tokyonight)
-![streak](https://streak-stats.demolab.com/?user=naveya&theme=tokyonight)
+![Naveya's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveya&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveya&layout=compact&theme=tokyonight)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=naveya&theme=tokyonight)
+
 ## 🚀 Projects
 
-🔹 Habit Tracker App  
-🔹 HandyClash – Rock Paper Scissors Game  
-🔹 Netflix Clone (Work in Progress)
+🔹 **Habit Tracker App**  
+A productivity web app to track daily habits and progress.
+
+🔹 **HandyClash – Rock Paper Scissors Game**  
+Interactive browser game built using JavaScript.
+
+🔹 **Netflix Clone (Work in Progress)**  
+Full stack streaming platform with authentication and video pla
+yer.
 ## 🌐 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/naveya-b-51b531350?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
