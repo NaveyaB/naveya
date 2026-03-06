@@ -18,10 +18,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
+
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=naveya&show_icons=true&theme=tokyonight)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveya&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveya&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveya&layout=compact&theme=tokyonight)
 ![streak](https://streak-stats.demolab.com/?user=naveya&theme=tokyonight)
 ## 🚀 Projects
 
