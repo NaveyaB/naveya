@@ -8,7 +8,7 @@
 🚀 Currently building real world projects  
 📍 Tamil Nadu, India
 
-https://github-readme-stats.vercel.app
+
 
 ## 🛠 Tech Stack
 
