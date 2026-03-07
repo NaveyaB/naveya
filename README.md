@@ -1,6 +1,5 @@
 # naveya
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=600&lines=Hi+I'm+Naveya;Full+Stack+Developer;React+%7C+Node.js+Developer)
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Naveya%20B&fontSize=40&fontColor=ffffff)
 
 ## Hi there 👋 I'm Naveya
 
