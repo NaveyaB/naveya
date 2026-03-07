@@ -8,6 +8,8 @@
 🚀 Currently building real world projects  
 📍 Tamil Nadu, India
 
+https://github-readme-stats.vercel.app
+
 ## 🛠 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,java,python,c,cpp,spring,git,github)
