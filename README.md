@@ -22,7 +22,7 @@
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=naveya&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NaveyaB)](https://git.io/streak-stats)
 
 ## 🚀 Projects
 
